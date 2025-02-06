@@ -1,0 +1,14 @@
+C:\Users\Wmurr\source\repos\Udemy\DeliWork\bin\Debug\net6.0\DeliWork.exe
+C:\Users\Wmurr\source\repos\Udemy\DeliWork\bin\Debug\net6.0\DeliWork.deps.json
+C:\Users\Wmurr\source\repos\Udemy\DeliWork\bin\Debug\net6.0\DeliWork.runtimeconfig.json
+C:\Users\Wmurr\source\repos\Udemy\DeliWork\bin\Debug\net6.0\DeliWork.dll
+C:\Users\Wmurr\source\repos\Udemy\DeliWork\bin\Debug\net6.0\DeliWork.pdb
+C:\Users\Wmurr\source\repos\Udemy\DeliWork\obj\Debug\net6.0\DeliWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wmurr\source\repos\Udemy\DeliWork\obj\Debug\net6.0\DeliWork.AssemblyInfoInputs.cache
+C:\Users\Wmurr\source\repos\Udemy\DeliWork\obj\Debug\net6.0\DeliWork.AssemblyInfo.cs
+C:\Users\Wmurr\source\repos\Udemy\DeliWork\obj\Debug\net6.0\DeliWork.csproj.CoreCompileInputs.cache
+C:\Users\Wmurr\source\repos\Udemy\DeliWork\obj\Debug\net6.0\DeliWork.dll
+C:\Users\Wmurr\source\repos\Udemy\DeliWork\obj\Debug\net6.0\refint\DeliWork.dll
+C:\Users\Wmurr\source\repos\Udemy\DeliWork\obj\Debug\net6.0\DeliWork.pdb
+C:\Users\Wmurr\source\repos\Udemy\DeliWork\obj\Debug\net6.0\DeliWork.genruntimeconfig.cache
+C:\Users\Wmurr\source\repos\Udemy\DeliWork\obj\Debug\net6.0\ref\DeliWork.dll
